@@ -2,7 +2,7 @@
 
 Here you can describe which technology stack you used. A simple unordered list is sufficient.
 
-- C# 6.0
+- C# 10.0
 - WPF (or other)
 - ...
 

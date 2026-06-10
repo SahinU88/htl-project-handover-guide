@@ -9,10 +9,12 @@ Please add 2-3 sentences what the project is about here as an introduction.
 - [Idea & Concept](./docs/project/Idea-and-Concept.md)
 - [Projectplanning](./docs/project/Projectplanning.md)
 - [Feature Overview](./docs/features/Index.md)
+- [Usage of AI](./docs/project/AI-Usage.md)
+- [Project Learnings](./docs/project/Project-Learnings.md)
 
 ### Technical Documentation
 
-- [Technologie Stack](./docs/technical/technology-stack.md)
+- [Technologie Stack](./docs/technical/Technology-Stack.md)
 - [Architecture](./docs/technical/Architecture.md)
 
 ## Contributors
