@@ -1,0 +1,27 @@
+# .gitignore for the project handover (C# / Visual Studio)
+#
+# Note: the root "bin/" folder is intentionally tracked, because it holds the
+# deliverable executable of your handover. Only the build output *inside* your
+# source code (src/) is ignored.
+
+# Build output of your Visual Studio project(s) inside src/
+src/**/[Bb]in/
+src/**/[Oo]bj/
+
+# Visual Studio / Rider working files
+.vs/
+*.user
+*.suo
+*.userprefs
+
+# NuGet packages restored locally
+packages/
+*.nupkg
+
+# Build logs
+*.binlog
+msbuild.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
