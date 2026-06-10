@@ -47,5 +47,4 @@ with your own project information.
 - [ ] Architecture is explained (text, illustration or UML)
 - [ ] Source code is complete in `src/` (without build output)
 - [ ] A working executable is in `bin/` and the start instructions are written
-- [ ] The executable was tested on a clean folder or another computer
 - [ ] All example and tip blocks were removed
